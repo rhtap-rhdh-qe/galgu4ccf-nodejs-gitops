@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: galgu4ccf-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/galgu4ccf-nodejs
